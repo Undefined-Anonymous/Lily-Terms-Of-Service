@@ -29,7 +29,7 @@ Lily facilitates user interaction through conversational engagement and image ge
 
 ---
 
-# Privacy Policy
+# Privacy Policy For Lily
 
 ## 1. Data Collection:
 Lily collects small amounts of data to improve its performance and memory. We do not collect large amounts of personal data. 
